@@ -1,3 +1,4 @@
 pandas
 dash
 jupyter_dash
+dash_cytoscape

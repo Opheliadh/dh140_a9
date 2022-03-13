@@ -1,10 +1,9 @@
-# dh140_a9
+# DH140_Assignment09
 
-## This repository runs a data analysis on the Romeo and Juliet Play. 
+## This repository runs a web-scraping script on the Corgis Aids dataset and Cars dataset. 
 
-### First there is a tokenization of the words. 
-### Word frequencies' central measures are shown (e.g., mean, median, mode). 
-### Then there's a correlation and linear regression analysis on a diabetes dataset.
+### Some visualizations amongst variables in these two datasets are constructed. 
+
 
 
 Badge 

@@ -1,8 +1,4 @@
 pandas
 nltk
-string
-collections
-math
-sklearn
-numpy
-matplotlib
+requests
+bs4 

@@ -1,5 +1,8 @@
 pandas
-dash
-jupyter_dash
-dash_cytoscape
-jupyterlab-dash
+nltk
+string
+collections
+math
+sklearn
+numpy
+matplotlib
